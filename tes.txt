@@ -1,4 +1,4 @@
 main
 development
 feat a
-feat b
+feat b > update
